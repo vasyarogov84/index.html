@@ -32,3 +32,11 @@ body {
 .jumbotron {
   background-image: url("./../img/Portland.jpg")
 }
+
+.Education li {
+  font-size: 20pt;
+}
+
+.job li {
+  font-size: 20pt;
+}
