@@ -12,9 +12,11 @@ _Bootstrap_
 
 ## Setup/Installation Requirements
 
-_Clone the repository_
-_Open the resort.html file
+* _Clone the repository_
+* _Open the resort.html file_
 
-#  License
 
-_Copyright (c) 2016 Viktor Grom_
+
+##  License
+
+* _Copyright (c) 2016 Viktor Grom_
