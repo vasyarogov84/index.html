@@ -3,6 +3,22 @@
   text-align: center;
   background-color: lightgreen;
 }
+
+.about-me p {
+  font-size: 14pt;
+}
+.link {
+  color: red;
+}
+.Day {
+  text-align: center;
+  border: 1px solid black;
+}
+
 body {
-  background-image: url("./../img/Portland.jpg"
+  background-image: url("./../img/backgr.jpeg")
+}
+
+.jumbotron {
+  background-image: url("./../img/backgr.jpeg")
 }
