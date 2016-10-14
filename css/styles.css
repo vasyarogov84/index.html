@@ -1,24 +1,34 @@
  .jumbotron h1 {
   color: black;
   text-align: center;
-  background-color: lightgreen;
+  background-color: lightblue;
+  }
+
+.name {
+  float:left;
+  }
+
+.e-mail {
+  float: right;
 }
 
 .about-me p {
   font-size: 14pt;
 }
+
 .link {
   color: red;
 }
+
 .Day {
   text-align: center;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 body {
-  background-image: url("./../img/backgr.jpeg")
+  background-image: url("./../img/backgr.jpeg");
 }
 
 .jumbotron {
-  background-image: url("./../img/backgr.jpeg")
+  background-image: url("./../img/Portland.jpg")
 }
