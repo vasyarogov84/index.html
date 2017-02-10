@@ -1,5 +1,5 @@
 [{
-name: function() {
-console.log("A");
+"name": "function() {
+console.log("A");"
 }
 }]
