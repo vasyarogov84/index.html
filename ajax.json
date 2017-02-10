@@ -1,4 +1,5 @@
-[{var start = new Date().getTime();
+[{
+ function : var start = new Date().getTime();
 var Clicks = 0;
 var arrayTime = [];
 
