@@ -22,5 +22,12 @@
       "likes": ["canned food"],
       "dislikes": ["dry food"]
     }
+  },
+  {
+  
+    "value" : "six",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Playing_card_heart_6.svg/819px-Playing_card_heart_6.svg.png"
+  
+
   }
 ]
